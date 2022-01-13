@@ -1,6 +1,6 @@
 # Haiku generator
 
-## Build as a portfolia project in the Codeacademy Full stack engineer course
+## Build as a portfolio project in the Codeacademy Full stack engineer course
 
 This is a small script to create a random haiku by seleciting from a prebuild list.
 
